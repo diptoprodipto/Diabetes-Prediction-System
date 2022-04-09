@@ -1,7 +1,6 @@
 function onClickedPredict() {
 
   const url = "https://diabetespredictionflask.herokuapp.com/predict";
-  console.log(url)
 
   $.get(url, {
     age: parseFloat($('#age').val()),
