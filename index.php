@@ -192,7 +192,7 @@
                     <div class="text-container about">
                         <h4>Developed by:</h4>
                         <h2 class="white">Dipto</h2>
-
+                        <p class="white">Email: diptoprodipto@gmail.com</p>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <br>
