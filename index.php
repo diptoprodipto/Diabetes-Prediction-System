@@ -191,9 +191,7 @@
                 <div class="col-md-6 col-lg-6 text-center text-lg-left text-xl-left">
                     <div class="text-container about">
                         <h4>Developed by:</h4>
-                        <h2 class="white">Prodipto Roy Dipto</h2>
-                        <p class="white">Daffodil International University, Dhaka</p>
-                        <p class="white">Email: prodipto15-9689@diu.edu.bd</p>
+                        <h2 class="white">Dipto</h2>
 
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->

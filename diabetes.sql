@@ -85,7 +85,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`name`, `email`, `password`, `image`) VALUES
-('Prodipto Roy Dipto', 'prodipto15-9689@diu.edu.bd', '1234', 'Prodipto Roy Dipto.png');
+('Dipto', 'd@email.com', '1234', 'Dipto.png');
 
 --
 -- Indexes for dumped tables
